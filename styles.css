@@ -95,6 +95,6 @@ body {
   border-radius: 4px;
   transition: opacity .5s;
 }
-.maint__button:hover{
+.main__button:hover{
   opacity: .5s;
 }
