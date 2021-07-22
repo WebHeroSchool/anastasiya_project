@@ -74,7 +74,7 @@ body {
   padding: 0 63% 100px 0;
   background: top right no-repeat url('img/mainimg.svg');
 }
-.maint__title{
+.maint__title {
   margin: 0 0 40px 0;
   font: bold 66px/81px 'pt_serif', arial, helvetica, sans-serif;
 }
@@ -88,7 +88,7 @@ body {
 .main__button {
   display: inline-block;
   font: 18px/21px 'Roboto', arial, helvetica, sans-serif;
-  color: #FFF;
+  color: #fff;
   background: #0056EC;
   padding: 14px 16px;
   text-decoration: none;
