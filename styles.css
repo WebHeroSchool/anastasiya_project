@@ -17,7 +17,7 @@ body {
   position: relative;
   padding: 40px 0;
   padding-left: 44px;
-  font: bold 24px/31px 'pt_serifbold', arial, helvetica, sans-serif;
+  font: bold 24px/31px 'pt_serif', arial, helvetica, sans-serif;
   }
 .logo__circle {
   position: absolute;
@@ -72,11 +72,11 @@ body {
 }
 .main{
   padding: 0 63% 100px 0;
-    background: top right no-repeat url('img/mainimg.svg');
+  background: top right no-repeat url('img/mainimg.svg');
 }
 .maint__title{
   margin: 0 0 40px 0;
-  font: bold 66px/81px 'pt_serifbold', arial, helvetica, sans-serif;
+  font: bold 66px/81px 'pt_serif', arial, helvetica, sans-serif;
 }
 .main__title-text_highlight{
   background: #ECF3FF;
