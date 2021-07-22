@@ -70,7 +70,7 @@ body {
 .menu__item:hover:after {
 
 }
-.main{
+.main {
   padding: 0 63% 100px 0;
   background: top right no-repeat url('img/mainimg.svg');
 }
@@ -78,16 +78,16 @@ body {
   margin: 0 0 40px 0;
   font: bold 66px/81px 'pt_serif', arial, helvetica, sans-serif;
 }
-.main__title-text_highlight{
+.main__title-text_highlight {
   background: #ECF3FF;
 }
-.main__subtitle{
+.main__subtitle {
   margin: 0 0 40px 0;
-  font: 400 22px/26px 'Roboto', arial, helvetica, sans-serif;
+  font: 22px/26px 'Roboto', arial, helvetica, sans-serif;
 }
-.maint__button{
+.maint__button {
   display: inline-block;
-  font: 500 18px/21px 'Roboto', arial, helvetica, sans-serif;
+  font: 18px/21px 'Roboto', arial, helvetica, sans-serif;
   color: #FFF;
   background: #0056EC;
   padding: 14px 16px;
