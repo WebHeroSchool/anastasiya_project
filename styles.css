@@ -79,8 +79,8 @@ body {
   font: 66px/87px 'pt_serifbold', arial, helvetica, sans-serif;
 }
 .main__title-text_highlight {
-  line-height: 90px;
-  background: #ECF3FF;
+    background: #ECF3FF;
+    line-height: 90px;
 }
 .main__subtitle {
   margin: 0 0 40px 0;
