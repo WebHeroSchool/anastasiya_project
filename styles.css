@@ -71,7 +71,7 @@ body {
 
 }
 .main {
-  padding: 0 63% 203px 0;
+  padding: 0 63% 180px 0;
   background: top right no-repeat url('img/mainimg.svg');
 }
 .main__title {
@@ -83,7 +83,7 @@ body {
     line-height: 90px;
 }
 .main__subtitle {
-  margin: 0 0 40px 0;
+  margin: 0 0 41px 0;
   font: 22px/26px 'Roboto', arial, helvetica, sans-serif;
 }
 .main__button {
