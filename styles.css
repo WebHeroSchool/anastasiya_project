@@ -99,7 +99,8 @@ body {
 .main__button:hover{
   opacity: .5s;
 }
+
 footer {
 margin-bottom:40;
-background: url('img/footer.svg');
+background: url('img/footerr.svg');
 }
